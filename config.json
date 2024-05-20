@@ -1,0 +1,6 @@
+{
+  "sessions": [1],
+  "subNumber": "Y02",
+  "data_root_dir": "/home/rsolomon/data/fmriprep_example",
+  "output_dir": "/home/rsolomon/data/fmriprep_example_output"
+}
